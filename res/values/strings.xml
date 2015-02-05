@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">心飞翔全能机器人</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="send">发送</string>
+    
+    <string-array name="welcome_tips">
+        <item>俊东大神,奴婢在此等候多时了</item>
+        <item>俊东帅哥,近来可好</item>
+        <item>俊东欧巴,我想死你了</item>
+        <item>俊东思密达,我亲爱的主人</item>
+        <item>我是俊东大神做出来的聊天机器人,很高兴为你服务</item>
+    </string-array>
+</resources>
